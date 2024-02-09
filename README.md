@@ -1,6 +1,3 @@
-Certainly! Writing a comprehensive and well-organized README is crucial for helping others understand and use your project. Below is a template you can use as a starting point for your project's README:
-
-```markdown
 # Blogging Platform CRUD API
 
 A simple CRUD API for a blogging platform built with Node.js and MongoDB.
